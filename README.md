@@ -6,12 +6,11 @@ I create stuff. Some on GitHub.
 
 I've created a repo with over **13,000 views** about the ChatGPT web app's backend APIs and more. Check it out!
 
-
 <a href="https://github.com/terminalcommandnewsletter/everything-chatgpt">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/repos/dark/everything-chatgpt.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./img/repos/light/everything-chatgpt.svg">
-    <img alt="Everything ChatGPT GitHub repo" src="./img/repos/dark/everything-chatgpt.svg">
+    <source media="(prefers-color-scheme: dark)" width="415px" srcset="./img/repos/dark/everything-chatgpt.svg">
+    <source media="(prefers-color-scheme: light)" width="415px" srcset="./img/repos/light/everything-chatgpt.svg">
+    <img alt="Everything ChatGPT GitHub repo" width="415px" src="./img/repos/dark/everything-chatgpt.svg">
   </picture>
 </a>
 
@@ -19,9 +18,9 @@ Or, check out this repo testing ChatGPT's memory context length (contribute more
 
 <a href="https://github.com/terminalcommandnewsletter/ai-memory-overflow">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/repos/dark/ai-memory-overflow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./img/repos/light/ai-memory-overflow.svg">
-    <img alt="AI Memory Overflow GitHub repo" src="./img/repos/dark/ai-memory-overflow.svg">
+    <source media="(prefers-color-scheme: dark)" width="415px" srcset="./img/repos/dark/ai-memory-overflow.svg">
+    <source media="(prefers-color-scheme: light)" width="415px" srcset="./img/repos/light/ai-memory-overflow.svg">
+    <img alt="AI Memory Overflow GitHub repo" width="415px" src="./img/repos/dark/ai-memory-overflow.svg">
   </picture>
 </a>
 
@@ -29,9 +28,9 @@ Here's a demo of using CSS to create windows (the ones you can see through)!
 
 <a href="https://github.com/terminalcommandnewsletter/just-some-windows">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/repos/dark/just-some-windows.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./img/repos/light/just-some-windows.svg">
-    <img alt="just-some-windows GitHub repo" src="./img/repos/dark/just-some-windows.svg">
+    <source media="(prefers-color-scheme: dark)" width="415px" srcset="./img/repos/dark/just-some-windows.svg">
+    <source media="(prefers-color-scheme: light)" width="415px" srcset="./img/repos/light/just-some-windows.svg">
+    <img alt="just-some-windows GitHub repo" width="415px" src="./img/repos/dark/just-some-windows.svg">
   </picture>
 </a>
 
